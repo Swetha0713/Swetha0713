@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-banner.png" width="100%">
+</p>
 # 👋 Hello! I'm Swetha Dixit (Lizz)
 
 ### 🚀 Student B.Tech Artificial Intelligence & Machine Learning @ SR University | Future AI Engineer
